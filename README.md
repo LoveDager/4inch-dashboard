@@ -49,3 +49,10 @@ Edit the file `sudo nano /etc/xdg/lxsession/LXDE-pi/autostart` and add this to t
 
 8. 
 Reboot with `sudo reboot` and everything should work!
+
+
+## Sources
+
+* https://www.reddit.com/r/dakboard/comments/fgiqn3/setup_a_raspberry_pi_zero_w_to_run_a_web_browser/
+* https://raspberrypi.stackexchange.com/questions/69204/open-chromium-full-screen-on-start-up
+* https://www.waveshare.com/wiki/4inch_DPI_LCD_(C)
